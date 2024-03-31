@@ -1,3 +1,5 @@
+## SI 649 (Information Visualization) Scientific Visualization
+
 This is for a SI 649 (Information Visualization) project. 
 
 The data/visualization is taken from https://www.nature.com/articles/s41597-019-0247-7
